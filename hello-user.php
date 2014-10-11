@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Hello User
  * Author: WP Pusher
- * Version: 1.0.12
+ * Version: 1.0.14
  */
 
 add_filter( "wp_loaded", "checkForGreeting" );
