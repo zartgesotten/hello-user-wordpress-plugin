@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Plugin Name: Hello User
+ * Plugin Name: Hello User this is Anja
  * Author: WP Pusher
- * Version: 1.2.0
+ * Version: 1.2.1
  */
 
 add_filter( "wp_loaded", "checkForGreeting" );
